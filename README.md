@@ -1,7 +1,9 @@
 **PART-1**
 
 1. Installation
-https://github.com/Yash153/nest-crud.git
+
+git clone https://github.com/Yash153/nest-crud.git
+
 cd nest-crud
 
 2. Install Dependecies
