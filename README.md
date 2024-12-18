@@ -1,3 +1,5 @@
+**PART-1**
+
 1. Installation
 https://github.com/Yash153/nest-crud.git
 cd nest-crud
@@ -12,7 +14,11 @@ npm run start
 GET: http://localhost:3000/investments/violations - returns list of violated investments
 GET: http://localhost:3000/investments/valid - returns list of violated investments
 GET: http://localhost:3000/investments - return list of all investments stored in db
+
 GET: http://localhost:3000/budget - return list of all budget rules stored in db
+
+**NOTE**
+After changing the csv file delete the merito.db file and re run the application to populate new data into the table
 
 
 **PART-2**
