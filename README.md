@@ -28,7 +28,7 @@ After changing the csv file delete the merito.db file and re run the application
 
 **PART-2**
 
-1. Open merito.ipynb in Google Collab
+1. Open merito.ipynb present in the repo in Google Collab
 2. Create a data folder and place the investment.csv and budget.csv there
 ![alt text](image.png)
 3. Run All
