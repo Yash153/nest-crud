@@ -1,0 +1,7 @@
+{
+    "type": "sqlite",
+    "database": "merito.db",
+    "entities": ["dist/**/*.entity.js"],
+    "synchronize": true
+  }
+  
